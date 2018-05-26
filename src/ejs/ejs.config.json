@@ -1,0 +1,13 @@
+{
+  "data": {
+    "title": "スライドショー",
+    "theme": "black"
+  },
+  "pages": [
+    {
+      "id": "index",
+      "title": "スライド名",
+      "theme": "moon"
+    }
+  ]
+}
